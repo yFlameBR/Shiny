@@ -1,0 +1,28 @@
+{
+  "Scripts":[
+    {
+      "Name": "Infinite Yeild",
+      "Url": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
+      "Description": "The best admin script, works in any game.",
+      "ThumbNail": "https://i.imgur.com/r2GS0wl.png"
+    },
+    {
+      "Name": "Hydroxide",
+      "Url": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/Hydroxide.lua",
+      "Description": "Hydroxide is a pen-testing tool (RemoteSpy, etc...)",
+      "ThumbNail": "https://i.imgur.com/teaXH3K.png"
+    },
+    {
+      "Name": "Dark Dex",
+      "Url": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/Dex.lua",
+      "Description": "Dark Dex is a game explorer script, that can be used to steal places and decompile scripts.",
+      "ThumbNail": "https://i.imgur.com/4MRHF98.png"
+    },
+    {
+      "Name": "Owl Hub",
+      "Url": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/owlhub.lua",
+      "Description": "Universal Esp and Aimbot (Working in some games.)",
+      "ThumbNail": "https://i.imgur.com/LFDHpiD.jpg"
+    }
+    ]
+}
