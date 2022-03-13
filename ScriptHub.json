@@ -1,28 +1,82 @@
 {
-  "Scripts":[
+  "Scripts": [
     {
-      "ScriptName": "Infinite Yeild",
+      "ScriptName": "Infinite Yield",
       "Script": "https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source",
-      "ScriptDescription": "The best admin script, works in any game.",
+      "ScriptDescription": "Script global que da ao usuario comandos Administrativos no roblox.",
       "ScriptImage": "https://i.imgur.com/r2GS0wl.png"
-    },
-    {
-      "ScriptName": "Hydroxide",
-      "Script": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/Hydroxide.lua",
-      "ScriptDescription": "Hydroxide is a pen-testing tool (RemoteSpy, etc...)",
-      "ScriptImage": "https://i.imgur.com/teaXH3K.png"
     },
     {
       "ScriptName": "Dark Dex",
       "Script": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/Dex.lua",
-      "ScriptDescription": "Dark Dex is a game explorer script, that can be used to steal places and decompile scripts.",
+      "ScriptDescription": "Dark Dex é um script explorador de scripts, que pode ser usado para roubar mapas e descompilar scripts.",
       "ScriptImage": "https://i.imgur.com/4MRHF98.png"
     },
     {
       "ScriptName": "Owl Hub",
       "Script": "https://raw.githubusercontent.com/yFlameBR/Shiny/main/scripts/owlhub.lua",
-      "ScriptDescription": "Universal Esp and Aimbot (Working in some games.)",
+      "ScriptDescription": "Universal Esp e Aimbot (Funciona na maioria dos jogos.)",
       "ScriptImage": "https://i.imgur.com/LFDHpiD.jpg"
+    },
+    {
+      "ScriptName": "Nexusware",
+      "Script": "https://pastebin.com/raw/R5RPvt9b",
+      "ScriptDescription": "---> Supported Games <---\r\n[ Kat ]  Atualizado / Funcionando\r\n[ Big Paintball ]  Beta\r\n[ Anomic ] \r\n[ Blox Fruits ]\r\n[ Parkour ]  Beta\r\n[ Arsenal ]  Beta\r\n[ Viking Simulator ] \r\n[ Ninja Legends ] ",
+      "ScriptImage": "https://cdn.discordapp.com/attachments/947618488669863996/951311676911783966/4b9d0741cc3d8d155c4a4398d58f1317.png"
+    },
+    {
+      "ScriptName": "Mokuro Hub",
+      "Script": "https://pastebin.com/raw/sVWx8dbQ",
+      "ScriptDescription": "Melhor Script para autofarm [ Blox fruits ]",
+      "ScriptImage": "https://i.imgur.com/3RxYqn6.png"
+    },
+    {
+      "ScriptName": "LeadMarker",
+      "Script": "https://pastebin.com/raw/f6DxZLzN",
+      "ScriptDescription": "Melhor script de demon fall (Auto Farm, ESP, TP e ETC)",
+      "ScriptImage": "https://media.discordapp.net/attachments/947681829257887744/951711561213427723/unknown.png"
+    },
+    {
+      "ScriptName": "Mad City",
+      "Script": "https://pastebin.com/raw/UgByFax3",
+      "ScriptDescription": "Script Tabs com varias funções Alem de (FE, Aimbot e etc)",
+      "ScriptImage": "https://cdn.discordapp.com/attachments/947681829257887744/951874980667338792/unknown.png"
+    },
+    {
+      "ScriptName": "Hexagon",
+      "Script": "https://pastebin.com/raw/HTmsvmFt",
+      "ScriptDescription": "Script para fps com Universal aimbot e esp (Bom para counter blox)",
+      "ScriptImage": "https://media.discordapp.net/attachments/947681829257887744/951913920870907914/unknown.png?width=470&height=467"
+    },
+    {
+      "ScriptName": "Herrtt UI",
+      "Script": "https://pastebin.com/raw/ViSB77BP",
+      "ScriptDescription": "Phantom forces Script (Aimbot,ESP e FE)",
+      "ScriptImage": "https://media.discordapp.net/attachments/947681829257887744/951982425511174164/unknown.png?width=960&height=24"
+    },
+    {
+      "ScriptName": "Anime Punching",
+      "Script": "https://pastebin.com/raw/rzE2sfvn",
+      "ScriptDescription": "Auto Farm, Auto Punching",
+      "ScriptImage": "https://tr.rbxcdn.com/efefb86b6ea1d7aa0b99d085888493f7/768/432/Image/Png"
+    },
+    {
+      "ScriptName": "Ro-Ghoul",
+      "Script": "https://pastebin.com/raw/8CW1WRYv",
+      "ScriptDescription": "Auto Farm, etc",
+      "ScriptImage": "https://tr.rbxcdn.com/bf0dd126eeaba84e96a5878ada90d405/768/432/Image/Png"
+    },
+    {
+      "ScriptName": "Jailbreak",
+      "Script": "https://pastebin.com/raw/piTB0r1T",
+      "ScriptDescription": "Auto Arrest, Auto Rob and AimBot, etc",
+      "ScriptImage": "https://tr.rbxcdn.com/9a3b34ce12b2ce29ea8a0964b4e15b36/512/512/Image/Jpeg"
+    },
+    {
+      "ScriptName": "Anime Fighters",
+      "Script": "https://pastebin.com/raw/2H6Lf5Sd",
+      "ScriptDescription": "Auto Farm, Auto Quest, Auto Click",
+      "ScriptImage": "https://tr.rbxcdn.com/b7f5e278914c42c450811661e59f7daf/150/150/Image/Jpeg"
     }
-    ]
+  ]
 }
